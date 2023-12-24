@@ -60,7 +60,7 @@ Users should be able to:
 
 - https://github.com/Riska997/Huddle-landing-page-with-a-single-introductory-section.git 
 
-- https://riska997.github.io/Huddle-landing-page-with-a-single-introductory-section/ 
+-  https://riska997.github.io/Huddle-landing-page-with-a-single-introductory-section/
 
   
 
